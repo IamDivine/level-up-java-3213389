@@ -14,5 +14,7 @@ public class App {
         TeamUtils.generateTeamsScores(teams, numberOfRounds);
 
         TeamUtils.revealResults(teams);
+
+
     }
 }
